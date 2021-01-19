@@ -1,9 +1,9 @@
 {
-  "name": "@nomiclabs/hardhat-solpp",
+  "name": "hardhat-solpp",
   "version": "2.0.0",
   "description": "Hardhat plugin for solpp",
-  "repository": "github:nomiclabs/hardhat",
-  "homepage": "https://github.com/nomiclabs/hardhat/tree/master/packages/hardhat-solpp",
+  "repository": "github:adhusson/hardhat",
+  "homepage": "https://github.com/adhusson/hardhat/tree/master/packages/hardhat-solpp",
   "author": "Nomic Labs LLC",
   "license": "MIT",
   "main": "dist/src/index.js",
