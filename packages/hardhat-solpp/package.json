@@ -32,7 +32,7 @@
   ],
   "dependencies": {
     "fs-extra": "^7.0.1",
-    "solpp": "^0.10.1"
+    "solpp": "adhusson/solpp"
   },
   "devDependencies": {
     "@types/chai": "^4.2.0",
